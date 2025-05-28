@@ -1,0 +1,121 @@
+NO.,COUNTRY,"GDP (2020, Billion USD)",ESTIMATED NUMBER OF MINING OPERATIONS (2020),
+1,China,"14,720","10,000",Largest coal producer; widespread mining across many provinces.
+2,India,"2,660","1,319",Based on Ministry of Mines 2020 data.
+3,Indonesia,"1,060","2,000",Dominated by coal and nickel mines.
+4,Japan,"5,060",100,"Limited to limestone, copper, and some rare earth elements."
+5,South Korea,"1,640",200,Mostly small-scale mineral operations; focuses on metal processing.
+6,Russia (Asian part),"1,480","3,000","Siberia hosts extensive mining; large copper, coal, and gold sites."
+7,Saudi Arabia,700.12,350,Expanding non-oil mineral sector.
+8,Turkey,719.96,900,"Active in coal, gold, and industrial minerals."
+9,Iran,203.47,500,"Rich in copper, iron, and zinc."
+10,Thailand,501.64,300,Tin and industrial minerals are common.
+11,Philippines,361.49,300,Includes large nickel and gold operations.
+12,Malaysia,337.01,150,"Tin, gold, and rare earths dominate."
+13,Vietnam,271.16,400,"Coal, bauxite, and rare earth mining."
+14,Pakistan,262.61,250,"Copper, salt, and coal are primary targets."
+15,Bangladesh,323.06,50,Focused mostly on gas and minimal mineral mining.
+16,Kazakhstan,171.08,700,"Uranium, copper, and coal mining."
+17,Uzbekistan,59.93,100,Major gold and uranium producer.
+18,Myanmar,79.85,250,"Heavy gemstone extraction, jade, rubies."
+19,Sri Lanka,80.68,150,Gemstone mines are prominent.
+20,Mongolia,13.31,"3,000","Mining-intensive economy (coal, copper, gold)."
+21,Nigeria,432,600,"Major producer of oil, tin, limestone, and coal."
+22,South Africa,302,"1,000","Major producer of gold, platinum, and coal."
+23,Egypt,362,300,"Known for gold, phosphates, and mineral sands."
+24,Algeria,145,250,Oil and gas dominate; also phosphate and iron.
+25,Angola,63,200,Diamond and iron ore production.
+26,Morocco,114,400,Major phosphate producer globally.
+27,Ethiopia,96,150,Gold and tantalum production.
+28,Ghana,73,350,Top gold producer in Africa.
+29,Kenya,95,100,"Soda ash, fluorspar, and rare earths."
+30,Tanzania,62,200,"Gold, diamonds, and tanzanite."
+31,Democratic Republic of Congo,49,500,Large copper and cobalt reserves.
+32,Zambia,19,150,Copper is the main mineral.
+33,Zimbabwe,21,200,"Gold, platinum, and lithium."
+34,Namibia,10,120,Uranium and diamond mining.
+35,Botswana,15,80,Diamond mining dominates.
+36,Mozambique,15,100,Coal and natural gas projects.
+37,Mali,17,180,One of Africa’s top gold producers.
+38,Senegal,24,90,"Gold, zircon, and phosphates."
+39,Sudan,34,120,Gold is the leading mineral.
+40,Madagascar,13,75,"Nickel, cobalt, and gemstone mining."
+41,United States,20937,12400,USGS reports over 12400 mines and quarries.
+42,Canada,1644,3000,Canada has thousands of active mines across provinces.
+43,Mexico,1076,1200,"Rich in silver, gold, copper; data from CAMIMEX."
+44,Guatemala,77,350,"Gold, silver, nickel mining."
+45,Honduras,23,200,"Gold, silver, and zinc."
+46,Nicaragua,13,180,Mainly gold mines.
+47,El Salvador,25,5,Limited mining due to bans on metal mining.
+48,Costa Rica,61,10,Very limited—mining moratorium in place.
+49,Panama,52,70,Cobre Panamá is a major copper mine.
+50,Cuba,107,120,Nickel and cobalt operations.
+51,Dominican Republic,88,100,Gold and ferronickel mining.
+52,Haiti,14,20,Small-scale mining activity.
+53,Jamaica,13,150,Bauxite and alumina dominate.
+54,Trinidad and Tobago,21,40,"Oil, gas, and asphalt mining."
+55,Belize,2,15,Limestone and clay extraction.
+56,Bahamas,11,5,Very minimal; quarrying operations only.
+57,Barbados,5,10,Mostly quarrying for construction materials.
+58,Saint Lucia,2,3,Quarry and sand mining.
+59,Grenada,1,2,Minimal mining activity.
+60,Saint Kitts and Nevis,1,1,Quarrying and sand mining.
+61,Brazil,1445,900,"Iron ore, gold, bauxite, and niobium are key minerals."
+62,Argentina,388,350,"Lithium, gold, and copper dominate mining."
+63,Chile,252,750,World’s largest copper producer.
+64,Peru,203,750,"Major producer of copper, silver, and gold."
+65,Colombia,271,650,Coal and gold are key exports.
+66,Venezuela,98,200,"Gold, diamonds, and bauxite; sector heavily impacted by sanctions."
+67,Ecuador,98,120,Mining has expanded since 2019 with large-scale projects.
+68,Bolivia,36,400,Major tin and lithium producer.
+69,Paraguay,39,30,Limited mining activity.
+70,Uruguay,56,20,"Small-scale mining, mainly aggregates."
+71,Guyana,5,150,Gold and bauxite dominate.
+72,Suriname,9,100,Gold is the primary mined mineral.
+73,French Guiana,5,10,"Limited legal gold mining, some illegal activity."
+74,Falkland Islands,0.2,2,"Minimal activity, some exploration."
+75,Aruba,3,1,No major mining industry.
+76,Curacao,3,2,Mostly aggregates for construction.
+77,Trinidad (offshore),21,40,Offshore oil extraction dominates.
+78,Barbados,5,10,Quarrying for limestone and sand.
+79,Saint Vincent,0.8,2,Limited to quarrying.
+80,Antigua & Barbuda,1.5,1,Minimal to no active mining.
+81,Germany,3806,1500,"Coal, lignite, potash, salt, and some metal mining."
+82,United Kingdom,2707,300,"Mainly coal, aggregates, and potash."
+83,France,2603,500,"Coal, salt, potash, and some metal mining."
+84,Italy,1887,400,"Marble, gold, and other minerals."
+85,Russia,1483,3200,"Largest producer of nickel, palladium, and diamonds."
+86,Spain,1402,700,"Copper, lead, zinc, and coal."
+87,Netherlands,907,150,Mainly aggregates and salt.
+88,Switzerland,715,50,Limited mining – mainly salt and quarry materials.
+89,Poland,594,1200,Coal and copper mining dominate.
+90,Sweden,541,800,"Iron ore, copper, gold, and silver mining."
+91,Belgium,515,100,Mainly quarrying and coal.
+92,Norway,434,300,Coal and industrial minerals.
+93,Austria,432,200,"Salt, magnesite, and iron ore."
+94,Greece,189,150,"Bauxite, nickel, and gold."
+95,Czech Republic,176,180,"Coal, uranium, and industrial minerals."
+96,Portugal,230,120,"Tungsten, copper, and tin mining."
+97,Hungary,155,90,Bauxite and coal mining.
+98,Finland,269,400,"Copper, nickel, and gold mining."
+99,Ireland,389,50,Limited mining; some aggregates and gypsum.
+100,Bulgaria,69,100,"Copper, lead, zinc, and gold mining."
+101,Australia,1393,2500,"One of the world's largest mining sectors (iron, coal, gold)."
+102,New Zealand,206,150,"Gold, coal, and aggregates mining."
+103,Papua New Guinea,23,120,Gold and copper mining.
+104,Fiji,5,15,Small-scale gold mining.
+105,Solomon Islands,1,40,Gold and nickel mining.
+106,Vanuatu,0.9,5,Limited mining activities.
+107,Samoa,0.8,3,Quarrying only.
+108,Tonga,0.5,2,Mainly quarrying.
+109,Micronesia,0.4,1,Very limited mining.
+110,Palau,0.3,1,Minimal quarrying.
+111,Nauru,0.1,1,Historically phosphate mining (mostly depleted).
+112,Tuvalu,0.05,0,No mining activity.
+113,Kiribati,0.2,1,Limited mining or quarrying.
+114,Marshall Islands,0.2,1,No significant mining.
+115,Cook Islands,0.3,1,Quarrying only.
+116,French Polynesia,0.5,3,Quarrying and limited mining.
+117,New Caledonia,9,300,Major nickel producer.
+118,Guam,0.5,2,Mostly quarrying.
+119,Northern Mariana Islands,0.3,1,Limited quarrying.
+120,American Samoa,0.07,1,Minimal quarrying.
